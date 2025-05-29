@@ -7,7 +7,7 @@
 ---
 
 ## **🚀 About Me**  
-Hey there! I’m **Carl Dorn**, a hobbyist programmer who loves tinkering with code. This GitHub account (`carlDorn`) is my digital sandbox—where I build random projects, break things, and (sometimes) fix them. No corporate agendas here, just pure **#JustForFun**
+Hey there! I’m **Carl Dorn**, a hobbyist programmer who loves tinkering with code. This GitHub account (`carlDorn`) is my digital sandbox where I build random projects, break things, and (sometimes) fix them. No corporate agendas here, just pure **#JustForFun**
 
 ---
 
