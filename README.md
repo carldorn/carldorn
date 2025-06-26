@@ -2,12 +2,12 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/carlDorn?label=Follow%20%40carlDorn&style=social)](https://github.com/carlDorn)  
 [![Telegram](https://img.shields.io/badge/Telegram-@chenfreiyu-2CA5E0?style=flat&logo=telegram)](https://t.me/chenfreiyu)  
-*"Coding for fun, debugging for life."*  
+*"CØD!NG FØR FUN, DΣBUGG!NG FØR L!FΣ."*  
 
 ---
 
 ## **🚀 About Me**  
-Hey there! I’m **Carl Dorn**, a hobbyist programmer who loves tinkering with code. This GitHub account (`carlDorn`) is my digital sandbox where I build random projects, break things, and (sometimes) fix them. No corporate agendas here, just pure **#JustForFun**
+HΣY THΣRΣ! I’M †CΛRL DØRN‡, Λ HØBBY!ST PRØGRΛMMΣR WHØ LØVΣS T!NKΣR!NG W!TH CØDΣ. TH!S G!THUB ΛCCØUNT (CΛRLDØRN) !S MY D!G!TΛL SΛNDBØX WHΣRΣ ! BU!LD RΛNDØM PRØJΣCTS, BRΣΛK TH!NGS, ΛND (SØMΣT!MΣS) F!X THΣM. NØ CØRPØRΛTΣ ΛGΣNDΛS HΣRΣ, JU$T PURΣ #JU$TFØRFUN ✨🔥"
 
 ---
 
@@ -26,7 +26,6 @@ I’m always open to:
 **Reach out via:**  
 - **Telegram:** [@chenfreiyu](https://t.me/chenfreiyu)  
 - **Discord:** `carlDorn#0000`   
-- **Twitter:** [@carlDornDev](https://twitter.com/carlDornDev)  
 
 ---
 
@@ -52,6 +51,6 @@ I’m always open to:
 
 --- 
 
-**Keep coding, stay weird!** 🚀  
+**KΣΣP CØD!NG, $TΛY WΣ!RD! 💻🔥🤪✨**  
 
 --- 
